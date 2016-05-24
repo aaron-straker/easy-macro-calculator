@@ -1,0 +1,8 @@
+1. Look into how to persist the store between refreshes.
+
+
+Docs:
+https://css-tricks.com/learning-react-redux/#article-header-id-15
+
+Post Launch:
+1. Look into "botify" - https://www.botify.com/
